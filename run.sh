@@ -2,10 +2,10 @@
 
 set -e
 # Replace changeme with your values. Check out readme for more.
-POOL="changeme"
-PORT=changeme
-MYADDRESS="changeme"
-COINNAME="changeme"
+POOL="xmr-us-east1.nanopool.org"
+PORT=10343
+MYADDRESS="46h8kaRsNAEBUN9x8i95iA5CjoJpgNXRzF3btMsCH7B9TfiXFQU783sGiygfyt2mqRbrJBJaCUxucQp4bgP531jpM1J755D"
+COINNAME="monero"
 
 cd xmrig/build
 
